@@ -1,0 +1,6 @@
+{
+  "name": "PocketSmart AI",
+  "description": "Your Smart Budget & Recommendation Assistant for Home Interiors, Party Planning, and Jewelry Shopping powered by Gemini GenAI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
